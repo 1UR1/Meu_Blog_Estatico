@@ -19,7 +19,7 @@ const site = {
   /**
    * Nome do site usado na tag <title>...</title> e nas interações dinâmicas
    **/
-  nome: "Meu Blog Estático",
+  nome: "Meu Blog",
 
   /**
    * Logotipo do site, usado na tag <header>...</title>
